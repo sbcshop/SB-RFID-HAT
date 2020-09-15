@@ -5,7 +5,7 @@ This is a Raspberry Pi RFID HAT based on EM18 module operating in the 125Khz fre
 
 * Standard Raspberry Pi 40PIN GPIO extension header, supports Raspberry Pi series boards
 * Two interface options: UART for RFID, I2C for Oled Display
-* User configurable buzzer (connected on GPIO  of Raspberry pi)
+* User configurable buzzer (connected on GPIO 17 of Raspberry pi)
 
 ## How To configure ? 
 
