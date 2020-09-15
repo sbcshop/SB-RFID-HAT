@@ -40,3 +40,17 @@ To verify the kist of connected device on I2C interface, you can run below commo
 
 ``` sudo python3 setup.py install ```
 
+### How to run SB-PI-HAT examples
+
+To run examples of SB-PI-HAT, clone this repository by executing below command
+
+``` git clone https://github.com/sbcshop/SB-RFID-HAT.git ```
+
+``` cd SB-RFID-HAT ```
+
+``` python3 rfid.py ``` (Without Oled display, output on terminal/shell)
+
+         or
+ 
+``` python3 rfid_with_oled.py ``` ( To show detected tag id on Oled as well as on terminal/shell)
+
