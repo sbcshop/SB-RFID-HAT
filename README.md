@@ -49,8 +49,8 @@ To run examples of SB-PI-HAT, clone this repository by executing below command
 ``` cd SB-RFID-HAT ```
 
 ``` python3 rfid.py ``` (Without Oled display, output on terminal/shell)
-
-         or
- 
+     
+   OR
+     
 ``` python3 rfid_with_oled.py ``` ( To show detected tag id on Oled as well as on terminal/shell)
 
