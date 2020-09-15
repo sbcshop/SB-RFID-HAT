@@ -16,7 +16,6 @@ DefaultFont = path.join(DIR_PATH, "Fonts/GothamLight.ttf")
 
 class read_rfid:
     def read_rfid (self):
-         
         ser = serial.Serial ("/dev/ttyS0")                           #Open named port 
         ser.baudrate = 9600                                            #Set baud rate to 9600
         data = ser.read(12)                                            #Read 12 characters from serial port to data
@@ -36,7 +35,7 @@ def info_print():
     display.DrawRect()
     display.ShowImage()
     sleep(1)
-    display.PrintText(" ", FontSize=14)
+    display.PrintText("Place your TAG", FontSize=14)
     display.ShowImage()
     
 
@@ -55,5 +54,8 @@ if __name__ == "__main__":
         display.PrintText("ID : " +(id), cords=(4, 8), FontSize=11)
         display.DrawRect()
         display.ShowImage()
-        sleep(.1)
+        sleep(2)
+        display.PrintText("Place your TAG", FontSize=14)
+        display.ShowImage()
+        
         
