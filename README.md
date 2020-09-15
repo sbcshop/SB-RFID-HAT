@@ -11,7 +11,7 @@ This is a Raspberry Pi RFID HAT based on EM18 module operating in the 125Khz fre
 
 ### Enable i2c and Serial interface
 
-I2C/Serial interface is disable by default in Raspberry Pi, To enable it type below command.
+I2C/Serial interface is disabled by default in Raspberry Pi, To enable it type below command.
 
 ``` sudo raspi-config ```
 
