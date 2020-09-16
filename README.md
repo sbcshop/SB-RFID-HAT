@@ -59,9 +59,9 @@ To run examples of SB-PI-HAT, clone this repository by executing below command
 ### Video Tutorial
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=McogW_-nztw">
+      <a href="https://www.youtube.com/watch?v=8P8CC5TtLy0">
      <img 
-      src="https://img.youtube.com/vi/McogW_-nztw/0.jpg" 
+      src="https://img.youtube.com/vi/8P8CC5TtLy0/0.jpg" 
       alt="SB Serial Expansion HAT for Raspberry Pi" 
       style="width:100%;">
       </a>
