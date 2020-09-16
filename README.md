@@ -56,3 +56,14 @@ To run examples of SB-PI-HAT, clone this repository by executing below command
      
 ``` python3 rfid_with_oled.py ``` ( To show detected tag id on Oled as well as on terminal/shell)
 
+### Video Tutorial
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=McogW_-nztw">
+     <img 
+      src="https://img.youtube.com/vi/McogW_-nztw/0.jpg" 
+      alt="SB Serial Expansion HAT for Raspberry Pi" 
+      style="width:100%;">
+      </a>
+    </div>
+
