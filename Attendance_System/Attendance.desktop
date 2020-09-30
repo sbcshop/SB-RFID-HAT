@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Attendance System
+Comment=RFID HAT
+Exec=/usr/bin/python3 /home/pi/Desktop/RFID_GUI/main.py
+Icon=/home/pi/Desktop/RFID_GUI/Images/desktop.png
+Terminal=false
