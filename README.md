@@ -1,6 +1,8 @@
 # SB-RFID-HAT
 This is a Raspberry Pi RFID HAT Module operating in the 125Khz frequency range. It supports two communication interfacs: UART for RFID and I2C for Oled Display.
 
+<img src="Images/rfid-model-1.png" width="300" />   <img src="Images/rfid-model-2.png" width="300" />
+
 ## Features
 
 * Standard Raspberry Pi 40PIN GPIO extension header, supports Raspberry Pi series boards
