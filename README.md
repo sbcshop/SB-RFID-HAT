@@ -32,9 +32,6 @@ After this step reboot raspberry by typing below command:
 
 ``` sudo reboot ```
 
-
-Enable serial interface of pi by ruuning
-
 ### Install Required Libraries
 
 * sudo apt-get install python-smbus
