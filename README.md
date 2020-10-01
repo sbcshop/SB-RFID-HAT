@@ -11,8 +11,8 @@ This is a Raspberry Pi RFID HAT Module operating in the 125Khz frequency range. 
 
 #### You can also use these 2 projects available in this repository:
 
-* Attendance_system : A GUI based attendance system using rfid tags/cards.
-* Lock_Pi : You can use this project to log-ff raspberry pi using rfid tags/cards. to login you have to manually type password to log on again.
+* Attendance_system : A GUI based attendance system using our rfid hat and rfid tags/cards.
+* Lock_Pi : You can use this project to log-ff raspberry pi using this rfid hat. To login you have to manually type password to log on again.
 
 ## How To configure ? 
 
