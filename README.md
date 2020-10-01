@@ -9,7 +9,7 @@ This is a Raspberry Pi RFID HAT Module operating in the 125Khz frequency range. 
 * Two interface options: UART for RFID, I2C for Oled Display
 * User configurable buzzer (connected on GPIO 17 of Raspberry pi)
 
-#### You can also use these 2 projects available in this repository:
+#### You can also use these 2 projects available in this repository with this hat:
 
 * Attendance_system : A GUI based attendance system using our rfid hat and rfid tags/cards.
 * Lock_Pi : You can use this project to log-ff raspberry pi using this rfid hat. To login you have to manually type password to log on again.
